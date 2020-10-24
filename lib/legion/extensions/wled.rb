@@ -1,4 +1,4 @@
-require "legion/extensions/wled/version"
+require 'legion/extensions/wled/version'
 
 module Legion
   module Extensions
