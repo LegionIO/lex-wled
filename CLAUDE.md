@@ -10,7 +10,7 @@ Legion Extension that connects LegionIO to WLED LED controllers via the WLED JSO
 
 **GitHub**: https://github.com/LegionIO/lex-wled
 **License**: MIT
-**Version**: 0.1.0
+**Version**: 0.1.2
 
 ## Architecture
 
